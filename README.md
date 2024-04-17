@@ -4,7 +4,7 @@ A study on homelessness in Denver, Colorado.
 
 ## Authors
 
-TODO: Add authors
+Michael Bolens, Beau Dunavant IV, Robb Stenman
 
 ## Data
 
