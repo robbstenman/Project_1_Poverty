@@ -38,6 +38,8 @@ Employment:
 
 Income
 
+- Do the income levels and cost of living differ between large, populous counties and smaller, less populated counties?
+  
 Homelessness
 
 - Does the Homeless Students and PIT data correlate?
@@ -280,11 +282,11 @@ It would be beneficial to look at both private sources of data along with govern
 
 One encouraging thing we learned from this exercise is that help is available. Several organizations are dedicated to helping the poor. Here are some representative organizations and government departments.
 
-Hunger Free Colorado
-2 1 1 Colorado
-Colorado Coalition for the Homeless
-Colorado Department of Human Services
-Colorado Department of Local Affairs
+- Hunger Free Colorado
+- 2 1 1 Colorado
+- Colorado Coalition for the Homeless
+- Colorado Department of Human Services
+- Colorado Department of Local Affairs
 
 ## Data Sources
 
