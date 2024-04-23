@@ -18,7 +18,10 @@ The past two or three decades have witnessed a startling rise in the number of A
 
 Our overarching question is "How did we get here"?
 
-Poverty
+Poverty 
+
+- Is there a relationship between poverty and employment?
+  - What about for the five most and least populated counties?
 
 Housing:
 
@@ -30,10 +33,15 @@ Employment:
 
 - Is there a correlation between employed people over the age of 16 and unemployed people over the age of 16?
 - Is there a correlation between median household income and per capita income?
+- Is there a relationship between poverty and employment?
+  - What about for the five most and least populated counties?
 
 Income
 
 Homelessness
+
+- Does the Homeless Students and PIT data correlate?
+  - What about for the five most and least populated counties?
 
 ## Overview of data collection, cleanup and exploration process
 
