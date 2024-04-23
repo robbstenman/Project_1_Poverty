@@ -39,8 +39,6 @@ Homelessness
 
 ## Approach taken to achieve goals
 
-## Observation 1
-
 ## Housing Observation:
 
 Is income keeping pace with the average price of rent?
@@ -66,13 +64,13 @@ The analysis revealed interesting insights into the relationships between housin
 ![Graph Title](./Beau/Housing/Average_Value_of_OwnerOccupied_Home.png)
 ![Graph Title](./Beau/Housing/Question_2.png)
 
-## Housing Observation:
+## Housing ation:
 
 Is there a correlation between the average year of homes built and the population of the five largest counties (by population) and the five smallest counties (by population)?
 
 The analysis aimed to determine if there is a correlation between the average year of homes built and the population of the five largest counties and the five smallest counties, both categorized by population size. The data for this analysis was gathered from the U.S. Census, focusing on variables such as "Average Year Home Built," "Total Population," "County," and "Year." We were able to extract and group the data, separating it into urban and rural areas based on the counties' population sizes.
 
-Upon analyzing the data, distinct trends were observed between the average year of homes built and the population of counties. In the five largest counties, there appeared to be a correlation between population size and newer home construction, indicated by a trend of decreasing average year of home construction as population size increased. Conversely, in the five smallest counties, there was a different trend, suggesting that smaller populations were associated with older homes on average. These findings highlight potential patterns in housing development and population distribution, which can be valuable for urban planning, real estate, and demographic studies.
+Upon analyzing the data, distinct trends were ed between the average year of homes built and the population of counties. In the five largest counties, there appeared to be a correlation between population size and newer home construction, indicated by a trend of decreasing average year of home construction as population size increased. Conversely, in the five smallest counties, there was a different trend, suggesting that smaller populations were associated with older homes on average. These findings highlight potential patterns in housing development and population distribution, which can be valuable for urban planning, real estate, and demographic studies.
 
 ![Graph Title](./Beau/Housing/Average_Year_Home_Built_Rural.png)
 ![Graph Title](./Beau/Housing/Total_Population_Rural.png)
@@ -82,45 +80,30 @@ Upon analyzing the data, distinct trends were observed between the average year 
 ![Graph Title](./Beau/Housing/Total_Population_Urban.png)
 ![Graph Title](./Beau/Housing/Question_3_Urban.png)
 
-## Employment Observation:
+## Employment ation:
 
 Is there a correlation between employed people over the age of 16 and unemployed people over the age of 16?
 
 The analysis delved into determining if there exists a correlation between employed individuals over the age of 16 and unemployed individuals over the age of 16. To conduct this analysis, data was gathered from the U.S. Census, specifically focusing the variables "Number of Employed (16+)" and "Number of Unemployed (16+)" over a specified time period. The data was then processed by grouping and averaging the number of employed and unemployed individuals by year, offering a comprehensive view of employment trends over time.
 
-Upon analyzing the data, it was observed that there is indeed a correlation between employed individuals over the age of 16 and unemployed individuals over the age of 16. The visualizations of the data showed an inverse relationship between these two variables, where periods of higher employment rates corresponded to lower unemployment rates, and vice versa. This correlation underscores the dynamic nature of the labor market, where changes in employment opportunities directly impact the level of unemployment within a population. Such insights are crucial for policymakers, economists, and workforce development initiatives in understanding and addressing labor market trends and dynamics.
+Upon analyzing the data, it was ed that there is indeed a correlation between employed individuals over the age of 16 and unemployed individuals over the age of 16. The visualizations of the data showed an inverse relationship between these two variables, where periods of higher employment rates corresponded to lower unemployment rates, and vice versa. This correlation underscores the dynamic nature of the labor market, where changes in employment opportunities directly impact the level of unemployment within a population. Such insights are crucial for policymakers, economists, and workforce development initiatives in understanding and addressing labor market trends and dynamics.
 
 ![Graph Title](./Beau/Employment/Number_of_Employed.png)
 ![Graph Title](./Beau/Employment/Number_of_Unemployed.png)
 ![Graph Title](./Beau/Employment/Question_1.png)
 
-## Employment Observation:
+## Employment ation:
 
 Is there a correlation between median household income and per capita income?
 
 The analysis aimed to investigate whether there exists a correlation between median household income and per capita income. To conduct this analysis, data was gathered from the U.S. Census, focusing on the "Median Household Income" and "Per Capita Income" over a specified time period. The data was then processed by grouping and averaging the median household income and per capita income by year, allowing for a comparative analysis of income trends.
 
-Upon analyzing the data, it was observed that there is indeed a correlation between median household income and per capita income. The visualizations of the data depicted a positive relationship between these two variables, where periods of higher median household income were associated with higher per capita income, and vice versa. This correlation underscores the interplay between household income levels and individual income within a population. It suggests that as household incomes rise, there is a tendency for individual incomes to also increase, reflecting overall economic prosperity and well-being. These findings are essential for understanding income distribution patterns and socioeconomic trends, providing valuable insights for policymakers, economists, and social researchers in addressing income inequality and improving economic opportunities for individuals and households.
+Upon analyzing the data, it was ed that there is indeed a correlation between median household income and per capita income. The visualizations of the data depicted a positive relationship between these two variables, where periods of higher median household income were associated with higher per capita income, and vice versa. This correlation underscores the interplay between household income levels and individual income within a population. It suggests that as household incomes rise, there is a tendency for individual incomes to also increase, reflecting overall economic prosperity and well-being. These findings are essential for understanding income distribution patterns and socioeconomic trends, providing valuable insights for policymakers, economists, and social researchers in addressing income inequality and improving economic opportunities for individuals and households.
 
 ![Graph Title](./Beau/Employment/Median_Household_Icome.png)
 ![Graph Title](./Beau/Employment/Per_Capita_Income.png)
 ![Graph Title](./Beau/Employment/Question_2.png)
 
-## Observation 5
-
-## Summary of findings
-
-## Problems Encountered
-
-Poverty
-
-Housing:
-
-- An issue identified in the U.S. Census data pertained to the year 2020. Initially attributing the negative integer to data errors, it was later revealed that the anomaly stemmed from the pandemic's impact on data collection during that period.
-
-Income
-
-Homelessness
 
 ### Is the supply of available beds for the homeless population keeping up with the number of homeless individuals?
 
@@ -265,10 +248,13 @@ To answer our question of "Is there a relationship between poverty and employmen
 
 There were four major challenges we faced with the date:
 
-1.      Covid - The biggest challenge in analyzing the data was the presence of anomalies caused by the Covid pandemic. The PIT Count data for 2021 showed more beds available than homeless, which we know is not accurate. The SNAP data had unexplained peaks during Covid. This Covid era data will cause data analysis issues for years to come.
-2.      Understanding Data Collection Methodologies – It took time to research the methodology for gathering each data set. There are different definitions for each variable, and it is important to understand the method and purpose of data collection.
-3.      Changes to Methodologies – When a major change is made to the method or definition it can significantly affect the data. If one did not know there was a change in method, one could easily draw the wrong conclusion.
-4.      Granularity or Amount of Detail – It was surprising how much detail was included in some data sets. One source we considered had over 400 fields of data to categorize types of housing.
+Covid - The biggest challenge in analyzing the data was the presence of anomalies caused by the Covid pandemic. The PIT Count data for 2021 showed more beds available than homeless, which we know is not accurate. The SNAP data had unexplained peaks during Covid. This Covid era data will cause data analysis issues for years to come.
+
+Understanding Data Collection Methodologies – It took time to research the methodology for gathering each data set. There are different definitions for each variable, and it is important to understand the method and purpose of data collection.
+
+Changes to Methodologies – When a major change is made to the method or definition it can significantly affect the data. If one did not know there was a change in method, one could easily draw the wrong conclusion.
+
+Granularity or Amount of Detail – It was surprising how much detail was included in some data sets. One source we considered had over 400 fields of data to categorize types of housing.
 
 ## Summary/Conclusion
 
