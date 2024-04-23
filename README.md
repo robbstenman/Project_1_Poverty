@@ -4,7 +4,9 @@ A study on homelessness in Denver, Colorado.
 
 ## Authors
 
-Michael Bolens, Beau Dunavant IV, Robb Stenman
+- [Beau Dunavant IV](https://github.com/Buford4)
+- [Michael Bolens](https://github.com/bolens)
+- [Robb Stenman](https://github.com/robbstenman)
 
 ## Course Number
 
